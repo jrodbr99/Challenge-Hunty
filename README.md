@@ -17,4 +17,5 @@ Entre los supuestos desarrollados se toman que:
 
 # En la carpeta code esta el codigo desarrollado tanto en SQL como en Python
 
-Como informacion adicional, encontre que en la informacion subministrada en la raw conversation hay errores, debido a que para el candidato "dd05c95f3ce677fdaffb260f461216cae8d113c5f12f3e21e03b4e5281ff1504" no hay entradas en su conversación, sin embargo, este candidato aparece como si hubiese resuelto todas las preguntas y posee un score de 90, el cual es de los mayores scores de entre los candidatos
+# Como informacion adicional:
+- encontré que en la informacion subministrada en la raw conversation hay errores, debido a que para el candidato "dd05c95f3ce677fdaffb260f461216cae8d113c5f12f3e21e03b4e5281ff1504" no hay entradas en su conversación, sin embargo, este candidato aparece como si hubiese resuelto todas las preguntas y posee un score de 90, el cual es de los mayores scores de entre los candidatos
